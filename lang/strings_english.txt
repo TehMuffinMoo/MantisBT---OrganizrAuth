@@ -1,0 +1,11 @@
+<?php
+# Copyright (c) MantisBT Team - mantisbt-dev@lists.sourceforge.net
+# Licensed under the MIT license
+
+$s_plugin_OrganizrAuth_title = 'OrganizrAuth';
+$s_plugin_OrganizrAuth_description = 'A plugin that uses Organizr SSO for authentication.';
+$s_plugin_OrganizrAuth_config_title = 'OrganizrAuth Configuration';
+$s_plugin_OrganizrAuth_organizr_cookie = 'Organizr Cookie';
+$s_plugin_OrganizrAuth_organizr_url = 'Organizr URL';
+$s_plugin_OrganizrAuth_organizr_access_level = 'Default Access Level';
+$s_plugin_OrganizrAuth_action_update = 'Update';
